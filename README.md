@@ -1,5 +1,4 @@
 # simple_tetris
--My implementation of a tetris for a n! assignment
 
 -Game was implemented with python and pygame python modules
 
@@ -24,8 +23,6 @@ pygame
 -SPACE to start or continue the game
 
 ---> USED SOUNDS
-
--game sounds were provided by n! team
 
 -main background music was written by me
   
